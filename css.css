@@ -28,7 +28,14 @@ img {
     color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-p {
+p.główny {
     font-size: 20px;
     text-align: center;
+}
+p.mały {
+    font-size: 10px;
+    text-align: right;
+}
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
