@@ -16,12 +16,15 @@ img {
     padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .topnav a:hover {
     background-color: #ddd;
     color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .topnav a.active {
     background-color: #00b752;
     color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
